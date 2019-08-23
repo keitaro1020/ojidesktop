@@ -1,0 +1,47 @@
+# github.com/akavel/rsrc v0.8.0
+github.com/akavel/rsrc/rsrc
+github.com/akavel/rsrc/binutil
+github.com/akavel/rsrc/coff
+github.com/akavel/rsrc/ico
+github.com/akavel/rsrc/internal
+# github.com/asticode/go-astilectron v0.8.0
+github.com/asticode/go-astilectron
+# github.com/asticode/go-astilectron-bootstrap v0.0.0-20190816065004-25b857285999
+github.com/asticode/go-astilectron-bootstrap
+# github.com/asticode/go-astilectron-bundler v0.0.0-20190426172205-155c2a10bbb1
+github.com/asticode/go-astilectron-bundler
+# github.com/asticode/go-astilog v1.0.0
+github.com/asticode/go-astilog
+# github.com/asticode/go-astitools v1.1.0
+github.com/asticode/go-astitools/ptr
+github.com/asticode/go-astitools/archive
+github.com/asticode/go-astitools/context
+github.com/asticode/go-astitools/exec
+github.com/asticode/go-astitools/http
+github.com/asticode/go-astitools/io
+github.com/asticode/go-astitools/os
+github.com/asticode/go-astitools/regexp
+github.com/asticode/go-astitools/url
+# github.com/asticode/go-bindata v0.0.0-20151023091102-a0ff2567cfb7
+github.com/asticode/go-bindata
+# github.com/julienschmidt/httprouter v1.2.0
+github.com/julienschmidt/httprouter
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.4
+github.com/mattn/go-isatty
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/sam-kamerer/go-plister v1.1.2
+github.com/sam-kamerer/go-plister
+# github.com/sirupsen/logrus v1.2.0
+github.com/sirupsen/logrus
+# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
+golang.org/x/net/context/ctxhttp
+# golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+golang.org/x/sys/unix
+golang.org/x/sys/windows
